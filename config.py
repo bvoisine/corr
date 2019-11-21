@@ -1,1 +1,0 @@
-iex_api_key = "sk_6d1c51ca88814667b6a5cf835c885da0"
